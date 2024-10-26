@@ -33,8 +33,7 @@ if ( MW_ENTRY_POINT !== 'cli' ) {
 				<!-- Jumbotron -->
 				<div class="jumbotron">
 					<p style="font-align: center; animation: fadein 1s;">
-						<img src="https://meta.kyoikuportal
-						.com/images/d/df/%E6%95%99%E7%A7%91%E6%9B%B8.png" alt="教育ポータル" 
+						<img src="https://meta.kyoikuportal.com/images/metawiki/d/df/%E6%95%99%E7%A7%91%E6%9B%B8.png" alt="教育ポータル" 
 						style="width: 200px; height: 200px;">
 					</p>
 					<h1><b>{$getTranslation( 'missingwiki' )}</b></h1>
